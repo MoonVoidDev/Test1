@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/tool_icons">
+        <file>resources/tool_icons/hoshino.jpg</file>
+        <file>resources/tool_icons/pandora.jpg</file>
+    </qresource>
+    <qresource prefix="/button_icons">
+        <file>resources/button_icons/pandora.jpg</file>
+    </qresource>
+</RCC>
