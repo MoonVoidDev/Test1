@@ -46,7 +46,7 @@ StartWidget::StartWidget(QWidget* parent)
     sl->addWidget(page1w);
     sl->addWidget(page2w);
 
-    QPushButton* nextPage{ new QPushButton("next", this) };
+    QPushButton* nextPage{ new QPushButton("nxt", this) };
     QPushButton* prePage{ new QPushButton("pre", this) };
 
     QHBoxLayout* hl{ new QHBoxLayout(nullptr) };

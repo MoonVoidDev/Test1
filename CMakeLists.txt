@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
-set(CMAKE_INSTALL_PREFIX "${CMAKE_SOURCE_DIR}/install" CACHE PATH "Install path" FORCE)
 
+# Qt SDK
+set(CMAKE_PREFIX_PATH "D:\\MyInstalled\\Qt\\6.8.0\\msvc2022_64")
 
 project(DS_work2 VERSION 0.1 LANGUAGES CXX)
 
